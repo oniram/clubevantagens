@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29583471537",
+    "firebase_url": "https://clube-vantagens-56792.firebaseio.com",
+    "project_id": "clube-vantagens-56792",
+    "storage_bucket": "clube-vantagens-56792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29583471537:android:6928f43ec2ac1231",
+        "android_client_info": {
+          "package_name": "appinventor.ai_waldineyan.MaisConnectionClienteExclusive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29583471537-fqv6dsnjri61lsejl0poqtmgbh7pmngi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzwgeSt8Es1U4ib-x1thAIkRYPsg8hUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
